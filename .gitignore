@@ -1,0 +1,6 @@
+db.sqlite3
+superlists/wsgi.pyc
+superlists/urls.pyc
+superlists/settings.pyc
+superlists/__init__.pyc
+__pycache__/functional_tests.cpython-27-PYTEST.pyc
